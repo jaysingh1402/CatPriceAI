@@ -1,0 +1,2 @@
+cedant_name,base_actuarial_rol,ml_adjustment_factor,ml_adjusted_rol,base_actuarial_rol_pct,ml_adjusted_rol_pct,selected_model
+Gulf Coast Insurance Co,0.3396,1.1927215827552908,0.4050482495036968,33.96,40.50482495036968,Gradient Boosting
